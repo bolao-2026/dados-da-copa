@@ -1,0 +1,24 @@
+#!/usr/bin/bash
+
+WORLDCUP_DIR="worldcup.json"
+
+# garante existência do diretório para os dados
+mkdir -p ${WORLDCUP_DIR} && cd ${WORLDCUP_DIR}
+
+# cria um repo temporário para buscar os dados via git
+git init
+
+# adiciona o remote do worldcup.json
+git remote add -f origin https://github.com/openfootball/worldcup.json.git
+
+# habilita sparse checkout no repo temporário
+git config core.sparseCheckout true
+
+# especifica diretório trazer no checkout
+echo "2026/*" >> .git/info/sparse-checkout
+
+# faz o pull e checkout
+git pull origin master
+
+# apaga o repositório temporário
+rm -rf .git
