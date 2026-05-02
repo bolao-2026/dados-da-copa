@@ -140,8 +140,10 @@ def main():
     matches = adiciona_id(matches)
     matches = remove_nums(matches)
 
+    tabela = { match["id"]: match for match in matches }
+
     with open(os.path.join(OUTPUT_DIR, "tabela-da-copa-2026.json"), "w") as f:
-        json.dump(matches, f, indent=2, ensure_ascii=False)
+        json.dump(tabela, f, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":
