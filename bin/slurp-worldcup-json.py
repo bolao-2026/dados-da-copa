@@ -80,31 +80,44 @@ def fix_time_and_date(matches):
     return new_matches
 
 
-def fix_rounds(matches):
+TRADUCAO_RODADAS = {
+    "Groups": "Grupos",
+    "Round of 32": "Rodada de 32",
+    "Round of 16": "Oitavas de Final",
+    "Quarter-final": "Quartas de Final",
+    "Match for third place": "Terceiro Lugar",
+    "Semi-final": "Semi-final",
+    "Final": "Final",
+}
+
+def traduz_rodadas_e_grupos(matches):
     new_matches = copy.deepcopy(matches)
 
     for match in new_matches:
         if match["round"].startswith("Matchday"):
             match["round"] = "Groups"
+        match["rodada"] = TRADUCAO_RODADAS[match.pop("round")]
+        grupo = match.pop("group", None)
+        match["grupo"] = f"Grupo {grupo}" if grupo else None
 
     return new_matches
 
 
-def traduza_nomes_times(matches):
-    tradutor = {}
+def traduza_times(matches):
+    traducao = {}
     with open(os.path.join(OUTPUT_DIR, "paises.csv"), "r", encoding="utf-8") as f:
         for linha in f:
             partes = linha.strip().split(",")
             if len(partes) >= 2:
-                tradutor[partes[0]] = partes[1]
+                traducao[partes[0]] = partes[1]
 
     new_matches = copy.deepcopy(matches)
 
     for match in new_matches:
-        if match["team1"] in tradutor:
-            match["team1"] = tradutor[match["team1"]]
-        if match["team2"] in tradutor:
-            match["team2"] = tradutor[match["team2"]]
+        team1 = match.pop("team1")
+        match["pais1"] = traducao.get(team1, team1)
+        team2 = match.pop("team2")
+        match["pais2"] = traducao.get(team2, team2)
 
     return new_matches
 
@@ -121,7 +134,7 @@ def traduz_estadios(matches):
 
     for match in new_matches:
         if match["ground"] in tradutor:
-            match["ground"] = tradutor[match["ground"]]
+            match["estadio"] = tradutor[match.pop("ground")]
 
     return new_matches
 
@@ -134,8 +147,8 @@ def main():
     matches = add_timestamps(matches)
     matches = fix_time_and_date(matches)
     matches = sorted_by_timestamp(matches)
-    matches = fix_rounds(matches)
-    matches = traduza_nomes_times(matches)
+    matches = traduz_rodadas_e_grupos(matches)
+    matches = traduza_times(matches)
     matches = traduz_estadios(matches)
     matches = adiciona_id(matches)
     matches = remove_nums(matches)
