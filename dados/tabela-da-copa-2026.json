@@ -2,7 +2,8 @@
   "1": {
     "date": "2026-06-11",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-11T16:00:00-0300",
+    "dt_iso": "2026-06-11T16:00:00-0300",
+    "dt_epoch": 1781204400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group A",
     "pais1": "México",
@@ -13,7 +14,8 @@
   "2": {
     "date": "2026-06-11",
     "time": "23:00 UTC-3",
-    "timestamp": "2026-06-11T23:00:00-0300",
+    "dt_iso": "2026-06-11T23:00:00-0300",
+    "dt_epoch": 1781229600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group A",
     "pais1": "Coreia do Sul",
@@ -24,7 +26,8 @@
   "3": {
     "date": "2026-06-12",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-12T16:00:00-0300",
+    "dt_iso": "2026-06-12T16:00:00-0300",
+    "dt_epoch": 1781290800000,
     "rodada": "Grupos",
     "grupo": "Grupo Group B",
     "pais1": "Canadá",
@@ -35,7 +38,8 @@
   "4": {
     "date": "2026-06-12",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-12T22:00:00-0300",
+    "dt_iso": "2026-06-12T22:00:00-0300",
+    "dt_epoch": 1781312400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group D",
     "pais1": "Estados Unidos",
@@ -46,7 +50,8 @@
   "5": {
     "date": "2026-06-13",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-13T16:00:00-0300",
+    "dt_iso": "2026-06-13T16:00:00-0300",
+    "dt_epoch": 1781377200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group B",
     "pais1": "Qatar",
@@ -57,7 +62,8 @@
   "6": {
     "date": "2026-06-13",
     "time": "19:00 UTC-3",
-    "timestamp": "2026-06-13T19:00:00-0300",
+    "dt_iso": "2026-06-13T19:00:00-0300",
+    "dt_epoch": 1781388000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group C",
     "pais1": "Brasil",
@@ -68,7 +74,8 @@
   "7": {
     "date": "2026-06-13",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-13T22:00:00-0300",
+    "dt_iso": "2026-06-13T22:00:00-0300",
+    "dt_epoch": 1781398800000,
     "rodada": "Grupos",
     "grupo": "Grupo Group C",
     "pais1": "Haiti",
@@ -79,7 +86,8 @@
   "8": {
     "date": "2026-06-14",
     "time": "01:00 UTC-3",
-    "timestamp": "2026-06-14T01:00:00-0300",
+    "dt_iso": "2026-06-14T01:00:00-0300",
+    "dt_epoch": 1781409600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group D",
     "pais1": "Austrália",
@@ -90,7 +98,8 @@
   "9": {
     "date": "2026-06-14",
     "time": "14:00 UTC-3",
-    "timestamp": "2026-06-14T14:00:00-0300",
+    "dt_iso": "2026-06-14T14:00:00-0300",
+    "dt_epoch": 1781456400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group E",
     "pais1": "Alemanha",
@@ -101,7 +110,8 @@
   "10": {
     "date": "2026-06-14",
     "time": "17:00 UTC-3",
-    "timestamp": "2026-06-14T17:00:00-0300",
+    "dt_iso": "2026-06-14T17:00:00-0300",
+    "dt_epoch": 1781467200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group F",
     "pais1": "Países Baixos",
@@ -112,7 +122,8 @@
   "11": {
     "date": "2026-06-14",
     "time": "20:00 UTC-3",
-    "timestamp": "2026-06-14T20:00:00-0300",
+    "dt_iso": "2026-06-14T20:00:00-0300",
+    "dt_epoch": 1781478000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group E",
     "pais1": "Costa do Marfim",
@@ -123,7 +134,8 @@
   "12": {
     "date": "2026-06-14",
     "time": "23:00 UTC-3",
-    "timestamp": "2026-06-14T23:00:00-0300",
+    "dt_iso": "2026-06-14T23:00:00-0300",
+    "dt_epoch": 1781488800000,
     "rodada": "Grupos",
     "grupo": "Grupo Group F",
     "pais1": "Suécia",
@@ -134,7 +146,8 @@
   "13": {
     "date": "2026-06-15",
     "time": "13:00 UTC-3",
-    "timestamp": "2026-06-15T13:00:00-0300",
+    "dt_iso": "2026-06-15T13:00:00-0300",
+    "dt_epoch": 1781539200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group H",
     "pais1": "Espanha",
@@ -145,7 +158,8 @@
   "14": {
     "date": "2026-06-15",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-15T16:00:00-0300",
+    "dt_iso": "2026-06-15T16:00:00-0300",
+    "dt_epoch": 1781550000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group G",
     "pais1": "Bélgica",
@@ -156,7 +170,8 @@
   "15": {
     "date": "2026-06-15",
     "time": "19:00 UTC-3",
-    "timestamp": "2026-06-15T19:00:00-0300",
+    "dt_iso": "2026-06-15T19:00:00-0300",
+    "dt_epoch": 1781560800000,
     "rodada": "Grupos",
     "grupo": "Grupo Group H",
     "pais1": "Arábia Saudita",
@@ -167,7 +182,8 @@
   "16": {
     "date": "2026-06-15",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-15T22:00:00-0300",
+    "dt_iso": "2026-06-15T22:00:00-0300",
+    "dt_epoch": 1781571600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group G",
     "pais1": "Irã",
@@ -178,7 +194,8 @@
   "17": {
     "date": "2026-06-16",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-16T16:00:00-0300",
+    "dt_iso": "2026-06-16T16:00:00-0300",
+    "dt_epoch": 1781636400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group I",
     "pais1": "França",
@@ -189,7 +206,8 @@
   "18": {
     "date": "2026-06-16",
     "time": "19:00 UTC-3",
-    "timestamp": "2026-06-16T19:00:00-0300",
+    "dt_iso": "2026-06-16T19:00:00-0300",
+    "dt_epoch": 1781647200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group I",
     "pais1": "Iraque",
@@ -200,7 +218,8 @@
   "19": {
     "date": "2026-06-16",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-16T22:00:00-0300",
+    "dt_iso": "2026-06-16T22:00:00-0300",
+    "dt_epoch": 1781658000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group J",
     "pais1": "Argentina",
@@ -211,7 +230,8 @@
   "20": {
     "date": "2026-06-17",
     "time": "01:00 UTC-3",
-    "timestamp": "2026-06-17T01:00:00-0300",
+    "dt_iso": "2026-06-17T01:00:00-0300",
+    "dt_epoch": 1781668800000,
     "rodada": "Grupos",
     "grupo": "Grupo Group J",
     "pais1": "Áustria",
@@ -222,7 +242,8 @@
   "21": {
     "date": "2026-06-17",
     "time": "14:00 UTC-3",
-    "timestamp": "2026-06-17T14:00:00-0300",
+    "dt_iso": "2026-06-17T14:00:00-0300",
+    "dt_epoch": 1781715600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group K",
     "pais1": "Portugal",
@@ -233,7 +254,8 @@
   "22": {
     "date": "2026-06-17",
     "time": "17:00 UTC-3",
-    "timestamp": "2026-06-17T17:00:00-0300",
+    "dt_iso": "2026-06-17T17:00:00-0300",
+    "dt_epoch": 1781726400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group L",
     "pais1": "Inglaterra",
@@ -244,7 +266,8 @@
   "23": {
     "date": "2026-06-17",
     "time": "20:00 UTC-3",
-    "timestamp": "2026-06-17T20:00:00-0300",
+    "dt_iso": "2026-06-17T20:00:00-0300",
+    "dt_epoch": 1781737200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group L",
     "pais1": "Gana",
@@ -255,7 +278,8 @@
   "24": {
     "date": "2026-06-17",
     "time": "23:00 UTC-3",
-    "timestamp": "2026-06-17T23:00:00-0300",
+    "dt_iso": "2026-06-17T23:00:00-0300",
+    "dt_epoch": 1781748000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group K",
     "pais1": "Uzbequistão",
@@ -266,7 +290,8 @@
   "25": {
     "date": "2026-06-18",
     "time": "13:00 UTC-3",
-    "timestamp": "2026-06-18T13:00:00-0300",
+    "dt_iso": "2026-06-18T13:00:00-0300",
+    "dt_epoch": 1781798400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group A",
     "pais1": "República Tcheca",
@@ -277,7 +302,8 @@
   "26": {
     "date": "2026-06-18",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-18T16:00:00-0300",
+    "dt_iso": "2026-06-18T16:00:00-0300",
+    "dt_epoch": 1781809200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group B",
     "pais1": "Suíça",
@@ -288,7 +314,8 @@
   "27": {
     "date": "2026-06-18",
     "time": "19:00 UTC-3",
-    "timestamp": "2026-06-18T19:00:00-0300",
+    "dt_iso": "2026-06-18T19:00:00-0300",
+    "dt_epoch": 1781820000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group B",
     "pais1": "Canadá",
@@ -299,7 +326,8 @@
   "28": {
     "date": "2026-06-18",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-18T22:00:00-0300",
+    "dt_iso": "2026-06-18T22:00:00-0300",
+    "dt_epoch": 1781830800000,
     "rodada": "Grupos",
     "grupo": "Grupo Group A",
     "pais1": "México",
@@ -310,7 +338,8 @@
   "29": {
     "date": "2026-06-19",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-19T16:00:00-0300",
+    "dt_iso": "2026-06-19T16:00:00-0300",
+    "dt_epoch": 1781895600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group D",
     "pais1": "Estados Unidos",
@@ -321,7 +350,8 @@
   "30": {
     "date": "2026-06-19",
     "time": "19:00 UTC-3",
-    "timestamp": "2026-06-19T19:00:00-0300",
+    "dt_iso": "2026-06-19T19:00:00-0300",
+    "dt_epoch": 1781906400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group C",
     "pais1": "Escócia",
@@ -332,7 +362,8 @@
   "31": {
     "date": "2026-06-19",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-19T22:00:00-0300",
+    "dt_iso": "2026-06-19T22:00:00-0300",
+    "dt_epoch": 1781917200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group C",
     "pais1": "Brasil",
@@ -343,7 +374,8 @@
   "32": {
     "date": "2026-06-20",
     "time": "01:00 UTC-3",
-    "timestamp": "2026-06-20T01:00:00-0300",
+    "dt_iso": "2026-06-20T01:00:00-0300",
+    "dt_epoch": 1781928000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group D",
     "pais1": "Turquia",
@@ -354,7 +386,8 @@
   "33": {
     "date": "2026-06-20",
     "time": "14:00 UTC-3",
-    "timestamp": "2026-06-20T14:00:00-0300",
+    "dt_iso": "2026-06-20T14:00:00-0300",
+    "dt_epoch": 1781974800000,
     "rodada": "Grupos",
     "grupo": "Grupo Group F",
     "pais1": "Países Baixos",
@@ -365,7 +398,8 @@
   "34": {
     "date": "2026-06-20",
     "time": "17:00 UTC-3",
-    "timestamp": "2026-06-20T17:00:00-0300",
+    "dt_iso": "2026-06-20T17:00:00-0300",
+    "dt_epoch": 1781985600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group E",
     "pais1": "Alemanha",
@@ -376,7 +410,8 @@
   "35": {
     "date": "2026-06-20",
     "time": "21:00 UTC-3",
-    "timestamp": "2026-06-20T21:00:00-0300",
+    "dt_iso": "2026-06-20T21:00:00-0300",
+    "dt_epoch": 1782000000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group E",
     "pais1": "Equador",
@@ -387,7 +422,8 @@
   "36": {
     "date": "2026-06-21",
     "time": "01:00 UTC-3",
-    "timestamp": "2026-06-21T01:00:00-0300",
+    "dt_iso": "2026-06-21T01:00:00-0300",
+    "dt_epoch": 1782014400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group F",
     "pais1": "Tunísia",
@@ -398,7 +434,8 @@
   "37": {
     "date": "2026-06-21",
     "time": "13:00 UTC-3",
-    "timestamp": "2026-06-21T13:00:00-0300",
+    "dt_iso": "2026-06-21T13:00:00-0300",
+    "dt_epoch": 1782057600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group H",
     "pais1": "Espanha",
@@ -409,7 +446,8 @@
   "38": {
     "date": "2026-06-21",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-21T16:00:00-0300",
+    "dt_iso": "2026-06-21T16:00:00-0300",
+    "dt_epoch": 1782068400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group G",
     "pais1": "Bélgica",
@@ -420,7 +458,8 @@
   "39": {
     "date": "2026-06-21",
     "time": "19:00 UTC-3",
-    "timestamp": "2026-06-21T19:00:00-0300",
+    "dt_iso": "2026-06-21T19:00:00-0300",
+    "dt_epoch": 1782079200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group H",
     "pais1": "Uruguai",
@@ -431,7 +470,8 @@
   "40": {
     "date": "2026-06-21",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-21T22:00:00-0300",
+    "dt_iso": "2026-06-21T22:00:00-0300",
+    "dt_epoch": 1782090000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group G",
     "pais1": "Nova Zelândia",
@@ -442,7 +482,8 @@
   "41": {
     "date": "2026-06-22",
     "time": "14:00 UTC-3",
-    "timestamp": "2026-06-22T14:00:00-0300",
+    "dt_iso": "2026-06-22T14:00:00-0300",
+    "dt_epoch": 1782147600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group J",
     "pais1": "Argentina",
@@ -453,7 +494,8 @@
   "42": {
     "date": "2026-06-22",
     "time": "18:00 UTC-3",
-    "timestamp": "2026-06-22T18:00:00-0300",
+    "dt_iso": "2026-06-22T18:00:00-0300",
+    "dt_epoch": 1782162000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group I",
     "pais1": "França",
@@ -464,7 +506,8 @@
   "43": {
     "date": "2026-06-22",
     "time": "21:00 UTC-3",
-    "timestamp": "2026-06-22T21:00:00-0300",
+    "dt_iso": "2026-06-22T21:00:00-0300",
+    "dt_epoch": 1782172800000,
     "rodada": "Grupos",
     "grupo": "Grupo Group I",
     "pais1": "Noruega",
@@ -475,7 +518,8 @@
   "44": {
     "date": "2026-06-23",
     "time": "00:00 UTC-3",
-    "timestamp": "2026-06-23T00:00:00-0300",
+    "dt_iso": "2026-06-23T00:00:00-0300",
+    "dt_epoch": 1782183600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group J",
     "pais1": "Jordânia",
@@ -486,7 +530,8 @@
   "45": {
     "date": "2026-06-23",
     "time": "14:00 UTC-3",
-    "timestamp": "2026-06-23T14:00:00-0300",
+    "dt_iso": "2026-06-23T14:00:00-0300",
+    "dt_epoch": 1782234000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group K",
     "pais1": "Portugal",
@@ -497,7 +542,8 @@
   "46": {
     "date": "2026-06-23",
     "time": "17:00 UTC-3",
-    "timestamp": "2026-06-23T17:00:00-0300",
+    "dt_iso": "2026-06-23T17:00:00-0300",
+    "dt_epoch": 1782244800000,
     "rodada": "Grupos",
     "grupo": "Grupo Group L",
     "pais1": "Inglaterra",
@@ -508,7 +554,8 @@
   "47": {
     "date": "2026-06-23",
     "time": "20:00 UTC-3",
-    "timestamp": "2026-06-23T20:00:00-0300",
+    "dt_iso": "2026-06-23T20:00:00-0300",
+    "dt_epoch": 1782255600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group L",
     "pais1": "Panamá",
@@ -519,7 +566,8 @@
   "48": {
     "date": "2026-06-23",
     "time": "23:00 UTC-3",
-    "timestamp": "2026-06-23T23:00:00-0300",
+    "dt_iso": "2026-06-23T23:00:00-0300",
+    "dt_epoch": 1782266400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group K",
     "pais1": "Colômbia",
@@ -530,7 +578,8 @@
   "49": {
     "date": "2026-06-24",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-24T16:00:00-0300",
+    "dt_iso": "2026-06-24T16:00:00-0300",
+    "dt_epoch": 1782327600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group B",
     "pais1": "Suíça",
@@ -541,7 +590,8 @@
   "50": {
     "date": "2026-06-24",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-24T16:00:00-0300",
+    "dt_iso": "2026-06-24T16:00:00-0300",
+    "dt_epoch": 1782327600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group B",
     "pais1": "Bósnia e Herzegovina",
@@ -552,7 +602,8 @@
   "51": {
     "date": "2026-06-24",
     "time": "19:00 UTC-3",
-    "timestamp": "2026-06-24T19:00:00-0300",
+    "dt_iso": "2026-06-24T19:00:00-0300",
+    "dt_epoch": 1782338400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group C",
     "pais1": "Escócia",
@@ -563,7 +614,8 @@
   "52": {
     "date": "2026-06-24",
     "time": "19:00 UTC-3",
-    "timestamp": "2026-06-24T19:00:00-0300",
+    "dt_iso": "2026-06-24T19:00:00-0300",
+    "dt_epoch": 1782338400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group C",
     "pais1": "Marrocos",
@@ -574,7 +626,8 @@
   "53": {
     "date": "2026-06-24",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-24T22:00:00-0300",
+    "dt_iso": "2026-06-24T22:00:00-0300",
+    "dt_epoch": 1782349200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group A",
     "pais1": "República Tcheca",
@@ -585,7 +638,8 @@
   "54": {
     "date": "2026-06-24",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-24T22:00:00-0300",
+    "dt_iso": "2026-06-24T22:00:00-0300",
+    "dt_epoch": 1782349200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group A",
     "pais1": "África do Sul",
@@ -596,7 +650,8 @@
   "55": {
     "date": "2026-06-25",
     "time": "17:00 UTC-3",
-    "timestamp": "2026-06-25T17:00:00-0300",
+    "dt_iso": "2026-06-25T17:00:00-0300",
+    "dt_epoch": 1782417600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group E",
     "pais1": "Curaçao",
@@ -607,7 +662,8 @@
   "56": {
     "date": "2026-06-25",
     "time": "17:00 UTC-3",
-    "timestamp": "2026-06-25T17:00:00-0300",
+    "dt_iso": "2026-06-25T17:00:00-0300",
+    "dt_epoch": 1782417600000,
     "rodada": "Grupos",
     "grupo": "Grupo Group E",
     "pais1": "Equador",
@@ -618,7 +674,8 @@
   "57": {
     "date": "2026-06-25",
     "time": "20:00 UTC-3",
-    "timestamp": "2026-06-25T20:00:00-0300",
+    "dt_iso": "2026-06-25T20:00:00-0300",
+    "dt_epoch": 1782428400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group F",
     "pais1": "Japão",
@@ -629,7 +686,8 @@
   "58": {
     "date": "2026-06-25",
     "time": "20:00 UTC-3",
-    "timestamp": "2026-06-25T20:00:00-0300",
+    "dt_iso": "2026-06-25T20:00:00-0300",
+    "dt_epoch": 1782428400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group F",
     "pais1": "Tunísia",
@@ -640,7 +698,8 @@
   "59": {
     "date": "2026-06-25",
     "time": "23:00 UTC-3",
-    "timestamp": "2026-06-25T23:00:00-0300",
+    "dt_iso": "2026-06-25T23:00:00-0300",
+    "dt_epoch": 1782439200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group D",
     "pais1": "Turquia",
@@ -651,7 +710,8 @@
   "60": {
     "date": "2026-06-25",
     "time": "23:00 UTC-3",
-    "timestamp": "2026-06-25T23:00:00-0300",
+    "dt_iso": "2026-06-25T23:00:00-0300",
+    "dt_epoch": 1782439200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group D",
     "pais1": "Paraguai",
@@ -662,7 +722,8 @@
   "61": {
     "date": "2026-06-26",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-26T16:00:00-0300",
+    "dt_iso": "2026-06-26T16:00:00-0300",
+    "dt_epoch": 1782500400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group I",
     "pais1": "Noruega",
@@ -673,7 +734,8 @@
   "62": {
     "date": "2026-06-26",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-26T16:00:00-0300",
+    "dt_iso": "2026-06-26T16:00:00-0300",
+    "dt_epoch": 1782500400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group I",
     "pais1": "Senegal",
@@ -684,7 +746,8 @@
   "63": {
     "date": "2026-06-26",
     "time": "21:00 UTC-3",
-    "timestamp": "2026-06-26T21:00:00-0300",
+    "dt_iso": "2026-06-26T21:00:00-0300",
+    "dt_epoch": 1782518400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group H",
     "pais1": "Cabo Verde",
@@ -695,7 +758,8 @@
   "64": {
     "date": "2026-06-26",
     "time": "21:00 UTC-3",
-    "timestamp": "2026-06-26T21:00:00-0300",
+    "dt_iso": "2026-06-26T21:00:00-0300",
+    "dt_epoch": 1782518400000,
     "rodada": "Grupos",
     "grupo": "Grupo Group H",
     "pais1": "Uruguai",
@@ -706,7 +770,8 @@
   "65": {
     "date": "2026-06-27",
     "time": "00:00 UTC-3",
-    "timestamp": "2026-06-27T00:00:00-0300",
+    "dt_iso": "2026-06-27T00:00:00-0300",
+    "dt_epoch": 1782529200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group G",
     "pais1": "Egito",
@@ -717,7 +782,8 @@
   "66": {
     "date": "2026-06-27",
     "time": "00:00 UTC-3",
-    "timestamp": "2026-06-27T00:00:00-0300",
+    "dt_iso": "2026-06-27T00:00:00-0300",
+    "dt_epoch": 1782529200000,
     "rodada": "Grupos",
     "grupo": "Grupo Group G",
     "pais1": "Nova Zelândia",
@@ -728,7 +794,8 @@
   "67": {
     "date": "2026-06-27",
     "time": "18:00 UTC-3",
-    "timestamp": "2026-06-27T18:00:00-0300",
+    "dt_iso": "2026-06-27T18:00:00-0300",
+    "dt_epoch": 1782594000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group L",
     "pais1": "Panamá",
@@ -739,7 +806,8 @@
   "68": {
     "date": "2026-06-27",
     "time": "18:00 UTC-3",
-    "timestamp": "2026-06-27T18:00:00-0300",
+    "dt_iso": "2026-06-27T18:00:00-0300",
+    "dt_epoch": 1782594000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group L",
     "pais1": "Croácia",
@@ -750,7 +818,8 @@
   "69": {
     "date": "2026-06-27",
     "time": "20:30 UTC-3",
-    "timestamp": "2026-06-27T20:30:00-0300",
+    "dt_iso": "2026-06-27T20:30:00-0300",
+    "dt_epoch": 1782603000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group K",
     "pais1": "Colômbia",
@@ -761,7 +830,8 @@
   "70": {
     "date": "2026-06-27",
     "time": "20:30 UTC-3",
-    "timestamp": "2026-06-27T20:30:00-0300",
+    "dt_iso": "2026-06-27T20:30:00-0300",
+    "dt_epoch": 1782603000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group K",
     "pais1": "República Democrática do Congo",
@@ -772,7 +842,8 @@
   "71": {
     "date": "2026-06-27",
     "time": "23:00 UTC-3",
-    "timestamp": "2026-06-27T23:00:00-0300",
+    "dt_iso": "2026-06-27T23:00:00-0300",
+    "dt_epoch": 1782612000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group J",
     "pais1": "Argélia",
@@ -783,7 +854,8 @@
   "72": {
     "date": "2026-06-27",
     "time": "23:00 UTC-3",
-    "timestamp": "2026-06-27T23:00:00-0300",
+    "dt_iso": "2026-06-27T23:00:00-0300",
+    "dt_epoch": 1782612000000,
     "rodada": "Grupos",
     "grupo": "Grupo Group J",
     "pais1": "Jordânia",
@@ -794,7 +866,8 @@
   "73": {
     "date": "2026-06-28",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-06-28T16:00:00-0300",
+    "dt_iso": "2026-06-28T16:00:00-0300",
+    "dt_epoch": 1782673200000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "2A",
@@ -805,7 +878,8 @@
   "74": {
     "date": "2026-06-29",
     "time": "14:00 UTC-3",
-    "timestamp": "2026-06-29T14:00:00-0300",
+    "dt_iso": "2026-06-29T14:00:00-0300",
+    "dt_epoch": 1782752400000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1C",
@@ -816,7 +890,8 @@
   "75": {
     "date": "2026-06-29",
     "time": "17:30 UTC-3",
-    "timestamp": "2026-06-29T17:30:00-0300",
+    "dt_iso": "2026-06-29T17:30:00-0300",
+    "dt_epoch": 1782765000000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1E",
@@ -827,7 +902,8 @@
   "76": {
     "date": "2026-06-29",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-29T22:00:00-0300",
+    "dt_iso": "2026-06-29T22:00:00-0300",
+    "dt_epoch": 1782781200000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1F",
@@ -838,7 +914,8 @@
   "77": {
     "date": "2026-06-30",
     "time": "14:00 UTC-3",
-    "timestamp": "2026-06-30T14:00:00-0300",
+    "dt_iso": "2026-06-30T14:00:00-0300",
+    "dt_epoch": 1782838800000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "2E",
@@ -849,7 +926,8 @@
   "78": {
     "date": "2026-06-30",
     "time": "18:00 UTC-3",
-    "timestamp": "2026-06-30T18:00:00-0300",
+    "dt_iso": "2026-06-30T18:00:00-0300",
+    "dt_epoch": 1782853200000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1I",
@@ -860,7 +938,8 @@
   "79": {
     "date": "2026-06-30",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-06-30T22:00:00-0300",
+    "dt_iso": "2026-06-30T22:00:00-0300",
+    "dt_epoch": 1782867600000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1A",
@@ -871,7 +950,8 @@
   "80": {
     "date": "2026-07-01",
     "time": "13:00 UTC-3",
-    "timestamp": "2026-07-01T13:00:00-0300",
+    "dt_iso": "2026-07-01T13:00:00-0300",
+    "dt_epoch": 1782921600000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1L",
@@ -882,7 +962,8 @@
   "81": {
     "date": "2026-07-01",
     "time": "17:00 UTC-3",
-    "timestamp": "2026-07-01T17:00:00-0300",
+    "dt_iso": "2026-07-01T17:00:00-0300",
+    "dt_epoch": 1782936000000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1G",
@@ -893,7 +974,8 @@
   "82": {
     "date": "2026-07-01",
     "time": "21:00 UTC-3",
-    "timestamp": "2026-07-01T21:00:00-0300",
+    "dt_iso": "2026-07-01T21:00:00-0300",
+    "dt_epoch": 1782950400000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1D",
@@ -904,7 +986,8 @@
   "83": {
     "date": "2026-07-02",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-07-02T16:00:00-0300",
+    "dt_iso": "2026-07-02T16:00:00-0300",
+    "dt_epoch": 1783018800000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1H",
@@ -915,7 +998,8 @@
   "84": {
     "date": "2026-07-02",
     "time": "20:00 UTC-3",
-    "timestamp": "2026-07-02T20:00:00-0300",
+    "dt_iso": "2026-07-02T20:00:00-0300",
+    "dt_epoch": 1783033200000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "2K",
@@ -926,7 +1010,8 @@
   "85": {
     "date": "2026-07-03",
     "time": "00:00 UTC-3",
-    "timestamp": "2026-07-03T00:00:00-0300",
+    "dt_iso": "2026-07-03T00:00:00-0300",
+    "dt_epoch": 1783047600000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1B",
@@ -937,7 +1022,8 @@
   "86": {
     "date": "2026-07-03",
     "time": "15:00 UTC-3",
-    "timestamp": "2026-07-03T15:00:00-0300",
+    "dt_iso": "2026-07-03T15:00:00-0300",
+    "dt_epoch": 1783101600000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "2D",
@@ -948,7 +1034,8 @@
   "87": {
     "date": "2026-07-03",
     "time": "19:00 UTC-3",
-    "timestamp": "2026-07-03T19:00:00-0300",
+    "dt_iso": "2026-07-03T19:00:00-0300",
+    "dt_epoch": 1783116000000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1J",
@@ -959,7 +1046,8 @@
   "88": {
     "date": "2026-07-03",
     "time": "22:30 UTC-3",
-    "timestamp": "2026-07-03T22:30:00-0300",
+    "dt_iso": "2026-07-03T22:30:00-0300",
+    "dt_epoch": 1783128600000,
     "rodada": "Rodada de 32",
     "grupo": null,
     "pais1": "1K",
@@ -970,7 +1058,8 @@
   "89": {
     "date": "2026-07-04",
     "time": "14:00 UTC-3",
-    "timestamp": "2026-07-04T14:00:00-0300",
+    "dt_iso": "2026-07-04T14:00:00-0300",
+    "dt_epoch": 1783184400000,
     "rodada": "Oitavas de Final",
     "grupo": null,
     "pais1": "W73",
@@ -981,7 +1070,8 @@
   "90": {
     "date": "2026-07-04",
     "time": "18:00 UTC-3",
-    "timestamp": "2026-07-04T18:00:00-0300",
+    "dt_iso": "2026-07-04T18:00:00-0300",
+    "dt_epoch": 1783198800000,
     "rodada": "Oitavas de Final",
     "grupo": null,
     "pais1": "W74",
@@ -992,7 +1082,8 @@
   "91": {
     "date": "2026-07-05",
     "time": "17:00 UTC-3",
-    "timestamp": "2026-07-05T17:00:00-0300",
+    "dt_iso": "2026-07-05T17:00:00-0300",
+    "dt_epoch": 1783281600000,
     "rodada": "Oitavas de Final",
     "grupo": null,
     "pais1": "W76",
@@ -1003,7 +1094,8 @@
   "92": {
     "date": "2026-07-05",
     "time": "21:00 UTC-3",
-    "timestamp": "2026-07-05T21:00:00-0300",
+    "dt_iso": "2026-07-05T21:00:00-0300",
+    "dt_epoch": 1783296000000,
     "rodada": "Oitavas de Final",
     "grupo": null,
     "pais1": "W79",
@@ -1014,7 +1106,8 @@
   "93": {
     "date": "2026-07-06",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-07-06T16:00:00-0300",
+    "dt_iso": "2026-07-06T16:00:00-0300",
+    "dt_epoch": 1783364400000,
     "rodada": "Oitavas de Final",
     "grupo": null,
     "pais1": "W83",
@@ -1025,7 +1118,8 @@
   "94": {
     "date": "2026-07-06",
     "time": "21:00 UTC-3",
-    "timestamp": "2026-07-06T21:00:00-0300",
+    "dt_iso": "2026-07-06T21:00:00-0300",
+    "dt_epoch": 1783382400000,
     "rodada": "Oitavas de Final",
     "grupo": null,
     "pais1": "W81",
@@ -1036,7 +1130,8 @@
   "95": {
     "date": "2026-07-07",
     "time": "13:00 UTC-3",
-    "timestamp": "2026-07-07T13:00:00-0300",
+    "dt_iso": "2026-07-07T13:00:00-0300",
+    "dt_epoch": 1783440000000,
     "rodada": "Oitavas de Final",
     "grupo": null,
     "pais1": "W86",
@@ -1047,7 +1142,8 @@
   "96": {
     "date": "2026-07-07",
     "time": "17:00 UTC-3",
-    "timestamp": "2026-07-07T17:00:00-0300",
+    "dt_iso": "2026-07-07T17:00:00-0300",
+    "dt_epoch": 1783454400000,
     "rodada": "Oitavas de Final",
     "grupo": null,
     "pais1": "W85",
@@ -1058,7 +1154,8 @@
   "97": {
     "date": "2026-07-09",
     "time": "17:00 UTC-3",
-    "timestamp": "2026-07-09T17:00:00-0300",
+    "dt_iso": "2026-07-09T17:00:00-0300",
+    "dt_epoch": 1783627200000,
     "rodada": "Quartas de Final",
     "grupo": null,
     "pais1": "W89",
@@ -1069,7 +1166,8 @@
   "98": {
     "date": "2026-07-10",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-07-10T16:00:00-0300",
+    "dt_iso": "2026-07-10T16:00:00-0300",
+    "dt_epoch": 1783710000000,
     "rodada": "Quartas de Final",
     "grupo": null,
     "pais1": "W93",
@@ -1080,7 +1178,8 @@
   "99": {
     "date": "2026-07-11",
     "time": "18:00 UTC-3",
-    "timestamp": "2026-07-11T18:00:00-0300",
+    "dt_iso": "2026-07-11T18:00:00-0300",
+    "dt_epoch": 1783803600000,
     "rodada": "Quartas de Final",
     "grupo": null,
     "pais1": "W91",
@@ -1091,7 +1190,8 @@
   "100": {
     "date": "2026-07-11",
     "time": "22:00 UTC-3",
-    "timestamp": "2026-07-11T22:00:00-0300",
+    "dt_iso": "2026-07-11T22:00:00-0300",
+    "dt_epoch": 1783818000000,
     "rodada": "Quartas de Final",
     "grupo": null,
     "pais1": "W95",
@@ -1102,7 +1202,8 @@
   "101": {
     "date": "2026-07-14",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-07-14T16:00:00-0300",
+    "dt_iso": "2026-07-14T16:00:00-0300",
+    "dt_epoch": 1784055600000,
     "rodada": "Semi-final",
     "grupo": null,
     "pais1": "W97",
@@ -1113,7 +1214,8 @@
   "102": {
     "date": "2026-07-15",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-07-15T16:00:00-0300",
+    "dt_iso": "2026-07-15T16:00:00-0300",
+    "dt_epoch": 1784142000000,
     "rodada": "Semi-final",
     "grupo": null,
     "pais1": "W99",
@@ -1124,7 +1226,8 @@
   "103": {
     "date": "2026-07-18",
     "time": "18:00 UTC-3",
-    "timestamp": "2026-07-18T18:00:00-0300",
+    "dt_iso": "2026-07-18T18:00:00-0300",
+    "dt_epoch": 1784408400000,
     "rodada": "Terceiro Lugar",
     "grupo": null,
     "pais1": "L101",
@@ -1135,7 +1238,8 @@
   "104": {
     "date": "2026-07-19",
     "time": "16:00 UTC-3",
-    "timestamp": "2026-07-19T16:00:00-0300",
+    "dt_iso": "2026-07-19T16:00:00-0300",
+    "dt_epoch": 1784487600000,
     "rodada": "Final",
     "grupo": null,
     "pais1": "W101",

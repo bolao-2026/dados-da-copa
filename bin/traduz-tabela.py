@@ -41,14 +41,15 @@ def add_timestamps(matches):
         target_tz = timezone(timedelta(hours=-3))
         target_dt = utc_dt.astimezone(target_tz)
 
-        match["timestamp"] = target_dt.strftime("%Y-%m-%dT%H:%M:%SZ").replace("Z", "-0300")
+        match["dt_iso"] = target_dt.strftime("%Y-%m-%dT%H:%M:%SZ").replace("Z", "-0300")
+        match["dt_epoch"] = int(1000 * target_dt.timestamp())
 
     return new_matches
 
 
 def sorted_by_timestamp(matches):
     new_matches = copy.deepcopy(matches)
-    new_matches.sort(key=lambda m: m["timestamp"])
+    new_matches.sort(key=lambda m: m["dt_iso"])
     return new_matches
 
 
@@ -71,7 +72,7 @@ def fix_time_and_date(matches):
     new_matches = copy.deepcopy(matches)
 
     for match in new_matches:
-        ts = match["timestamp"]
+        ts = match["dt_iso"]
         dt = datetime.strptime(ts, "%Y-%m-%dT%H:%M:%S%z")
 
         match["date"] = dt.strftime("%Y-%m-%d")
