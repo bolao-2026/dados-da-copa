@@ -56,7 +56,7 @@ def sorted_by_timestamp(matches):
 def adiciona_id(matches):
     new_matches = copy.deepcopy(matches)
     for i, match in enumerate(new_matches, start=1):
-        match["id"] = i
+        match["id"] = f"{i:03d}"
     return new_matches
 
 

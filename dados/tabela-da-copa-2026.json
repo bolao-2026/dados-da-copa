@@ -1,5 +1,5 @@
 {
-  "1": {
+  "001": {
     "date": "2026-06-11",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-11T16:00:00-0300",
@@ -9,9 +9,9 @@
     "pais1": "México",
     "pais2": "África do Sul",
     "estadio": "Cidado do México (Azteca)",
-    "id": 1
+    "id": "001"
   },
-  "2": {
+  "002": {
     "date": "2026-06-11",
     "time": "23:00 UTC-3",
     "dt_iso": "2026-06-11T23:00:00-0300",
@@ -21,9 +21,9 @@
     "pais1": "Coreia do Sul",
     "pais2": "República Tcheca",
     "estadio": "Guadalajara (Zapopan)",
-    "id": 2
+    "id": "002"
   },
-  "3": {
+  "003": {
     "date": "2026-06-12",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-12T16:00:00-0300",
@@ -33,9 +33,9 @@
     "pais1": "Canadá",
     "pais2": "Bósnia e Herzegovina",
     "estadio": "Toronto",
-    "id": 3
+    "id": "003"
   },
-  "4": {
+  "004": {
     "date": "2026-06-12",
     "time": "22:00 UTC-3",
     "dt_iso": "2026-06-12T22:00:00-0300",
@@ -45,9 +45,9 @@
     "pais1": "Estados Unidos",
     "pais2": "Paraguai",
     "estadio": "Los Angeles (Inglewood)",
-    "id": 4
+    "id": "004"
   },
-  "5": {
+  "005": {
     "date": "2026-06-13",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-13T16:00:00-0300",
@@ -57,9 +57,9 @@
     "pais1": "Qatar",
     "pais2": "Suíça",
     "estadio": "San Francisco (Levi's)",
-    "id": 5
+    "id": "005"
   },
-  "6": {
+  "006": {
     "date": "2026-06-13",
     "time": "19:00 UTC-3",
     "dt_iso": "2026-06-13T19:00:00-0300",
@@ -69,9 +69,9 @@
     "pais1": "Brasil",
     "pais2": "Marrocos",
     "estadio": "Nova Iorque/Nova Jersey (MetLife)",
-    "id": 6
+    "id": "006"
   },
-  "7": {
+  "007": {
     "date": "2026-06-13",
     "time": "22:00 UTC-3",
     "dt_iso": "2026-06-13T22:00:00-0300",
@@ -81,9 +81,9 @@
     "pais1": "Haiti",
     "pais2": "Escócia",
     "estadio": "Boston (Foxborough)",
-    "id": 7
+    "id": "007"
   },
-  "8": {
+  "008": {
     "date": "2026-06-14",
     "time": "01:00 UTC-3",
     "dt_iso": "2026-06-14T01:00:00-0300",
@@ -93,9 +93,9 @@
     "pais1": "Austrália",
     "pais2": "Turquia",
     "estadio": "Vancouver (BC Place)",
-    "id": 8
+    "id": "008"
   },
-  "9": {
+  "009": {
     "date": "2026-06-14",
     "time": "14:00 UTC-3",
     "dt_iso": "2026-06-14T14:00:00-0300",
@@ -105,9 +105,9 @@
     "pais1": "Alemanha",
     "pais2": "Curaçao",
     "estadio": "Houston (NRG)",
-    "id": 9
+    "id": "009"
   },
-  "10": {
+  "010": {
     "date": "2026-06-14",
     "time": "17:00 UTC-3",
     "dt_iso": "2026-06-14T17:00:00-0300",
@@ -117,9 +117,9 @@
     "pais1": "Países Baixos",
     "pais2": "Japão",
     "estadio": "Dallas (Arlington)",
-    "id": 10
+    "id": "010"
   },
-  "11": {
+  "011": {
     "date": "2026-06-14",
     "time": "20:00 UTC-3",
     "dt_iso": "2026-06-14T20:00:00-0300",
@@ -129,9 +129,9 @@
     "pais1": "Costa do Marfim",
     "pais2": "Equador",
     "estadio": "Philadelphia",
-    "id": 11
+    "id": "011"
   },
-  "12": {
+  "012": {
     "date": "2026-06-14",
     "time": "23:00 UTC-3",
     "dt_iso": "2026-06-14T23:00:00-0300",
@@ -141,9 +141,9 @@
     "pais1": "Suécia",
     "pais2": "Tunísia",
     "estadio": "Monterrey (Guadalupe)",
-    "id": 12
+    "id": "012"
   },
-  "13": {
+  "013": {
     "date": "2026-06-15",
     "time": "13:00 UTC-3",
     "dt_iso": "2026-06-15T13:00:00-0300",
@@ -153,9 +153,9 @@
     "pais1": "Espanha",
     "pais2": "Cabo Verde",
     "estadio": "Atlanta (Mercedes-Benz)",
-    "id": 13
+    "id": "013"
   },
-  "14": {
+  "014": {
     "date": "2026-06-15",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-15T16:00:00-0300",
@@ -165,9 +165,9 @@
     "pais1": "Bélgica",
     "pais2": "Egito",
     "estadio": "Seattle",
-    "id": 14
+    "id": "014"
   },
-  "15": {
+  "015": {
     "date": "2026-06-15",
     "time": "19:00 UTC-3",
     "dt_iso": "2026-06-15T19:00:00-0300",
@@ -177,9 +177,9 @@
     "pais1": "Arábia Saudita",
     "pais2": "Uruguai",
     "estadio": "Miami (Miami Gardens)",
-    "id": 15
+    "id": "015"
   },
-  "16": {
+  "016": {
     "date": "2026-06-15",
     "time": "22:00 UTC-3",
     "dt_iso": "2026-06-15T22:00:00-0300",
@@ -189,9 +189,9 @@
     "pais1": "Irã",
     "pais2": "Nova Zelândia",
     "estadio": "Los Angeles (Inglewood)",
-    "id": 16
+    "id": "016"
   },
-  "17": {
+  "017": {
     "date": "2026-06-16",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-16T16:00:00-0300",
@@ -201,9 +201,9 @@
     "pais1": "França",
     "pais2": "Senegal",
     "estadio": "Nova Iorque/Nova Jersey (MetLife)",
-    "id": 17
+    "id": "017"
   },
-  "18": {
+  "018": {
     "date": "2026-06-16",
     "time": "19:00 UTC-3",
     "dt_iso": "2026-06-16T19:00:00-0300",
@@ -213,9 +213,9 @@
     "pais1": "Iraque",
     "pais2": "Noruega",
     "estadio": "Boston (Foxborough)",
-    "id": 18
+    "id": "018"
   },
-  "19": {
+  "019": {
     "date": "2026-06-16",
     "time": "22:00 UTC-3",
     "dt_iso": "2026-06-16T22:00:00-0300",
@@ -225,9 +225,9 @@
     "pais1": "Argentina",
     "pais2": "Argélia",
     "estadio": "Kansas City (Arrowhead)",
-    "id": 19
+    "id": "019"
   },
-  "20": {
+  "020": {
     "date": "2026-06-17",
     "time": "01:00 UTC-3",
     "dt_iso": "2026-06-17T01:00:00-0300",
@@ -237,9 +237,9 @@
     "pais1": "Áustria",
     "pais2": "Jordânia",
     "estadio": "San Francisco (Levi's)",
-    "id": 20
+    "id": "020"
   },
-  "21": {
+  "021": {
     "date": "2026-06-17",
     "time": "14:00 UTC-3",
     "dt_iso": "2026-06-17T14:00:00-0300",
@@ -249,9 +249,9 @@
     "pais1": "Portugal",
     "pais2": "República Democrática do Congo",
     "estadio": "Houston (NRG)",
-    "id": 21
+    "id": "021"
   },
-  "22": {
+  "022": {
     "date": "2026-06-17",
     "time": "17:00 UTC-3",
     "dt_iso": "2026-06-17T17:00:00-0300",
@@ -261,9 +261,9 @@
     "pais1": "Inglaterra",
     "pais2": "Croácia",
     "estadio": "Dallas (Arlington)",
-    "id": 22
+    "id": "022"
   },
-  "23": {
+  "023": {
     "date": "2026-06-17",
     "time": "20:00 UTC-3",
     "dt_iso": "2026-06-17T20:00:00-0300",
@@ -273,9 +273,9 @@
     "pais1": "Gana",
     "pais2": "Panamá",
     "estadio": "Toronto",
-    "id": 23
+    "id": "023"
   },
-  "24": {
+  "024": {
     "date": "2026-06-17",
     "time": "23:00 UTC-3",
     "dt_iso": "2026-06-17T23:00:00-0300",
@@ -285,9 +285,9 @@
     "pais1": "Uzbequistão",
     "pais2": "Colômbia",
     "estadio": "Cidado do México (Azteca)",
-    "id": 24
+    "id": "024"
   },
-  "25": {
+  "025": {
     "date": "2026-06-18",
     "time": "13:00 UTC-3",
     "dt_iso": "2026-06-18T13:00:00-0300",
@@ -297,9 +297,9 @@
     "pais1": "República Tcheca",
     "pais2": "África do Sul",
     "estadio": "Atlanta (Mercedes-Benz)",
-    "id": 25
+    "id": "025"
   },
-  "26": {
+  "026": {
     "date": "2026-06-18",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-18T16:00:00-0300",
@@ -309,9 +309,9 @@
     "pais1": "Suíça",
     "pais2": "Bósnia e Herzegovina",
     "estadio": "Los Angeles (Inglewood)",
-    "id": 26
+    "id": "026"
   },
-  "27": {
+  "027": {
     "date": "2026-06-18",
     "time": "19:00 UTC-3",
     "dt_iso": "2026-06-18T19:00:00-0300",
@@ -321,9 +321,9 @@
     "pais1": "Canadá",
     "pais2": "Qatar",
     "estadio": "Vancouver (BC Place)",
-    "id": 27
+    "id": "027"
   },
-  "28": {
+  "028": {
     "date": "2026-06-18",
     "time": "22:00 UTC-3",
     "dt_iso": "2026-06-18T22:00:00-0300",
@@ -333,9 +333,9 @@
     "pais1": "México",
     "pais2": "Coreia do Sul",
     "estadio": "Guadalajara (Zapopan)",
-    "id": 28
+    "id": "028"
   },
-  "29": {
+  "029": {
     "date": "2026-06-19",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-19T16:00:00-0300",
@@ -345,9 +345,9 @@
     "pais1": "Estados Unidos",
     "pais2": "Austrália",
     "estadio": "Seattle",
-    "id": 29
+    "id": "029"
   },
-  "30": {
+  "030": {
     "date": "2026-06-19",
     "time": "19:00 UTC-3",
     "dt_iso": "2026-06-19T19:00:00-0300",
@@ -357,9 +357,9 @@
     "pais1": "Escócia",
     "pais2": "Marrocos",
     "estadio": "Boston (Foxborough)",
-    "id": 30
+    "id": "030"
   },
-  "31": {
+  "031": {
     "date": "2026-06-19",
     "time": "21:30 UTC-3",
     "dt_iso": "2026-06-19T21:30:00-0300",
@@ -369,9 +369,9 @@
     "pais1": "Brasil",
     "pais2": "Haiti",
     "estadio": "Philadelphia",
-    "id": 31
+    "id": "031"
   },
-  "32": {
+  "032": {
     "date": "2026-06-20",
     "time": "00:00 UTC-3",
     "dt_iso": "2026-06-20T00:00:00-0300",
@@ -381,9 +381,9 @@
     "pais1": "Turquia",
     "pais2": "Paraguai",
     "estadio": "San Francisco (Levi's)",
-    "id": 32
+    "id": "032"
   },
-  "33": {
+  "033": {
     "date": "2026-06-20",
     "time": "14:00 UTC-3",
     "dt_iso": "2026-06-20T14:00:00-0300",
@@ -393,9 +393,9 @@
     "pais1": "Países Baixos",
     "pais2": "Suécia",
     "estadio": "Houston (NRG)",
-    "id": 33
+    "id": "033"
   },
-  "34": {
+  "034": {
     "date": "2026-06-20",
     "time": "17:00 UTC-3",
     "dt_iso": "2026-06-20T17:00:00-0300",
@@ -405,9 +405,9 @@
     "pais1": "Alemanha",
     "pais2": "Costa do Marfim",
     "estadio": "Toronto",
-    "id": 34
+    "id": "034"
   },
-  "35": {
+  "035": {
     "date": "2026-06-20",
     "time": "21:00 UTC-3",
     "dt_iso": "2026-06-20T21:00:00-0300",
@@ -417,9 +417,9 @@
     "pais1": "Equador",
     "pais2": "Curaçao",
     "estadio": "Kansas City (Arrowhead)",
-    "id": 35
+    "id": "035"
   },
-  "36": {
+  "036": {
     "date": "2026-06-21",
     "time": "01:00 UTC-3",
     "dt_iso": "2026-06-21T01:00:00-0300",
@@ -429,9 +429,9 @@
     "pais1": "Tunísia",
     "pais2": "Japão",
     "estadio": "Monterrey (Guadalupe)",
-    "id": 36
+    "id": "036"
   },
-  "37": {
+  "037": {
     "date": "2026-06-21",
     "time": "13:00 UTC-3",
     "dt_iso": "2026-06-21T13:00:00-0300",
@@ -441,9 +441,9 @@
     "pais1": "Espanha",
     "pais2": "Arábia Saudita",
     "estadio": "Atlanta (Mercedes-Benz)",
-    "id": 37
+    "id": "037"
   },
-  "38": {
+  "038": {
     "date": "2026-06-21",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-21T16:00:00-0300",
@@ -453,9 +453,9 @@
     "pais1": "Bélgica",
     "pais2": "Irã",
     "estadio": "Los Angeles (Inglewood)",
-    "id": 38
+    "id": "038"
   },
-  "39": {
+  "039": {
     "date": "2026-06-21",
     "time": "19:00 UTC-3",
     "dt_iso": "2026-06-21T19:00:00-0300",
@@ -465,9 +465,9 @@
     "pais1": "Uruguai",
     "pais2": "Cabo Verde",
     "estadio": "Miami (Miami Gardens)",
-    "id": 39
+    "id": "039"
   },
-  "40": {
+  "040": {
     "date": "2026-06-21",
     "time": "22:00 UTC-3",
     "dt_iso": "2026-06-21T22:00:00-0300",
@@ -477,9 +477,9 @@
     "pais1": "Nova Zelândia",
     "pais2": "Egito",
     "estadio": "Vancouver (BC Place)",
-    "id": 40
+    "id": "040"
   },
-  "41": {
+  "041": {
     "date": "2026-06-22",
     "time": "14:00 UTC-3",
     "dt_iso": "2026-06-22T14:00:00-0300",
@@ -489,9 +489,9 @@
     "pais1": "Argentina",
     "pais2": "Áustria",
     "estadio": "Dallas (Arlington)",
-    "id": 41
+    "id": "041"
   },
-  "42": {
+  "042": {
     "date": "2026-06-22",
     "time": "18:00 UTC-3",
     "dt_iso": "2026-06-22T18:00:00-0300",
@@ -501,9 +501,9 @@
     "pais1": "França",
     "pais2": "Iraque",
     "estadio": "Philadelphia",
-    "id": 42
+    "id": "042"
   },
-  "43": {
+  "043": {
     "date": "2026-06-22",
     "time": "21:00 UTC-3",
     "dt_iso": "2026-06-22T21:00:00-0300",
@@ -513,9 +513,9 @@
     "pais1": "Noruega",
     "pais2": "Senegal",
     "estadio": "Nova Iorque/Nova Jersey (MetLife)",
-    "id": 43
+    "id": "043"
   },
-  "44": {
+  "044": {
     "date": "2026-06-23",
     "time": "00:00 UTC-3",
     "dt_iso": "2026-06-23T00:00:00-0300",
@@ -525,9 +525,9 @@
     "pais1": "Jordânia",
     "pais2": "Argélia",
     "estadio": "San Francisco (Levi's)",
-    "id": 44
+    "id": "044"
   },
-  "45": {
+  "045": {
     "date": "2026-06-23",
     "time": "14:00 UTC-3",
     "dt_iso": "2026-06-23T14:00:00-0300",
@@ -537,9 +537,9 @@
     "pais1": "Portugal",
     "pais2": "Uzbequistão",
     "estadio": "Houston (NRG)",
-    "id": 45
+    "id": "045"
   },
-  "46": {
+  "046": {
     "date": "2026-06-23",
     "time": "17:00 UTC-3",
     "dt_iso": "2026-06-23T17:00:00-0300",
@@ -549,9 +549,9 @@
     "pais1": "Inglaterra",
     "pais2": "Gana",
     "estadio": "Boston (Foxborough)",
-    "id": 46
+    "id": "046"
   },
-  "47": {
+  "047": {
     "date": "2026-06-23",
     "time": "20:00 UTC-3",
     "dt_iso": "2026-06-23T20:00:00-0300",
@@ -561,9 +561,9 @@
     "pais1": "Panamá",
     "pais2": "Croácia",
     "estadio": "Toronto",
-    "id": 47
+    "id": "047"
   },
-  "48": {
+  "048": {
     "date": "2026-06-23",
     "time": "23:00 UTC-3",
     "dt_iso": "2026-06-23T23:00:00-0300",
@@ -573,9 +573,9 @@
     "pais1": "Colômbia",
     "pais2": "República Democrática do Congo",
     "estadio": "Guadalajara (Zapopan)",
-    "id": 48
+    "id": "048"
   },
-  "49": {
+  "049": {
     "date": "2026-06-24",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-24T16:00:00-0300",
@@ -585,9 +585,9 @@
     "pais1": "Suíça",
     "pais2": "Canadá",
     "estadio": "Vancouver (BC Place)",
-    "id": 49
+    "id": "049"
   },
-  "50": {
+  "050": {
     "date": "2026-06-24",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-24T16:00:00-0300",
@@ -597,9 +597,9 @@
     "pais1": "Bósnia e Herzegovina",
     "pais2": "Qatar",
     "estadio": "Seattle",
-    "id": 50
+    "id": "050"
   },
-  "51": {
+  "051": {
     "date": "2026-06-24",
     "time": "19:00 UTC-3",
     "dt_iso": "2026-06-24T19:00:00-0300",
@@ -609,9 +609,9 @@
     "pais1": "Escócia",
     "pais2": "Brasil",
     "estadio": "Miami (Miami Gardens)",
-    "id": 51
+    "id": "051"
   },
-  "52": {
+  "052": {
     "date": "2026-06-24",
     "time": "19:00 UTC-3",
     "dt_iso": "2026-06-24T19:00:00-0300",
@@ -621,9 +621,9 @@
     "pais1": "Marrocos",
     "pais2": "Haiti",
     "estadio": "Atlanta (Mercedes-Benz)",
-    "id": 52
+    "id": "052"
   },
-  "53": {
+  "053": {
     "date": "2026-06-24",
     "time": "22:00 UTC-3",
     "dt_iso": "2026-06-24T22:00:00-0300",
@@ -633,9 +633,9 @@
     "pais1": "República Tcheca",
     "pais2": "México",
     "estadio": "Cidado do México (Azteca)",
-    "id": 53
+    "id": "053"
   },
-  "54": {
+  "054": {
     "date": "2026-06-24",
     "time": "22:00 UTC-3",
     "dt_iso": "2026-06-24T22:00:00-0300",
@@ -645,9 +645,9 @@
     "pais1": "África do Sul",
     "pais2": "Coreia do Sul",
     "estadio": "Monterrey (Guadalupe)",
-    "id": 54
+    "id": "054"
   },
-  "55": {
+  "055": {
     "date": "2026-06-25",
     "time": "17:00 UTC-3",
     "dt_iso": "2026-06-25T17:00:00-0300",
@@ -657,9 +657,9 @@
     "pais1": "Curaçao",
     "pais2": "Costa do Marfim",
     "estadio": "Philadelphia",
-    "id": 55
+    "id": "055"
   },
-  "56": {
+  "056": {
     "date": "2026-06-25",
     "time": "17:00 UTC-3",
     "dt_iso": "2026-06-25T17:00:00-0300",
@@ -669,9 +669,9 @@
     "pais1": "Equador",
     "pais2": "Alemanha",
     "estadio": "Nova Iorque/Nova Jersey (MetLife)",
-    "id": 56
+    "id": "056"
   },
-  "57": {
+  "057": {
     "date": "2026-06-25",
     "time": "20:00 UTC-3",
     "dt_iso": "2026-06-25T20:00:00-0300",
@@ -681,9 +681,9 @@
     "pais1": "Japão",
     "pais2": "Suécia",
     "estadio": "Dallas (Arlington)",
-    "id": 57
+    "id": "057"
   },
-  "58": {
+  "058": {
     "date": "2026-06-25",
     "time": "20:00 UTC-3",
     "dt_iso": "2026-06-25T20:00:00-0300",
@@ -693,9 +693,9 @@
     "pais1": "Tunísia",
     "pais2": "Países Baixos",
     "estadio": "Kansas City (Arrowhead)",
-    "id": 58
+    "id": "058"
   },
-  "59": {
+  "059": {
     "date": "2026-06-25",
     "time": "23:00 UTC-3",
     "dt_iso": "2026-06-25T23:00:00-0300",
@@ -705,9 +705,9 @@
     "pais1": "Turquia",
     "pais2": "Estados Unidos",
     "estadio": "Los Angeles (Inglewood)",
-    "id": 59
+    "id": "059"
   },
-  "60": {
+  "060": {
     "date": "2026-06-25",
     "time": "23:00 UTC-3",
     "dt_iso": "2026-06-25T23:00:00-0300",
@@ -717,9 +717,9 @@
     "pais1": "Paraguai",
     "pais2": "Austrália",
     "estadio": "San Francisco (Levi's)",
-    "id": 60
+    "id": "060"
   },
-  "61": {
+  "061": {
     "date": "2026-06-26",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-26T16:00:00-0300",
@@ -729,9 +729,9 @@
     "pais1": "Noruega",
     "pais2": "França",
     "estadio": "Boston (Foxborough)",
-    "id": 61
+    "id": "061"
   },
-  "62": {
+  "062": {
     "date": "2026-06-26",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-26T16:00:00-0300",
@@ -741,9 +741,9 @@
     "pais1": "Senegal",
     "pais2": "Iraque",
     "estadio": "Toronto",
-    "id": 62
+    "id": "062"
   },
-  "63": {
+  "063": {
     "date": "2026-06-26",
     "time": "21:00 UTC-3",
     "dt_iso": "2026-06-26T21:00:00-0300",
@@ -753,9 +753,9 @@
     "pais1": "Cabo Verde",
     "pais2": "Arábia Saudita",
     "estadio": "Houston (NRG)",
-    "id": 63
+    "id": "063"
   },
-  "64": {
+  "064": {
     "date": "2026-06-26",
     "time": "21:00 UTC-3",
     "dt_iso": "2026-06-26T21:00:00-0300",
@@ -765,9 +765,9 @@
     "pais1": "Uruguai",
     "pais2": "Espanha",
     "estadio": "Guadalajara (Zapopan)",
-    "id": 64
+    "id": "064"
   },
-  "65": {
+  "065": {
     "date": "2026-06-27",
     "time": "00:00 UTC-3",
     "dt_iso": "2026-06-27T00:00:00-0300",
@@ -777,9 +777,9 @@
     "pais1": "Egito",
     "pais2": "Irã",
     "estadio": "Seattle",
-    "id": 65
+    "id": "065"
   },
-  "66": {
+  "066": {
     "date": "2026-06-27",
     "time": "00:00 UTC-3",
     "dt_iso": "2026-06-27T00:00:00-0300",
@@ -789,9 +789,9 @@
     "pais1": "Nova Zelândia",
     "pais2": "Bélgica",
     "estadio": "Vancouver (BC Place)",
-    "id": 66
+    "id": "066"
   },
-  "67": {
+  "067": {
     "date": "2026-06-27",
     "time": "18:00 UTC-3",
     "dt_iso": "2026-06-27T18:00:00-0300",
@@ -801,9 +801,9 @@
     "pais1": "Panamá",
     "pais2": "Inglaterra",
     "estadio": "Nova Iorque/Nova Jersey (MetLife)",
-    "id": 67
+    "id": "067"
   },
-  "68": {
+  "068": {
     "date": "2026-06-27",
     "time": "18:00 UTC-3",
     "dt_iso": "2026-06-27T18:00:00-0300",
@@ -813,9 +813,9 @@
     "pais1": "Croácia",
     "pais2": "Gana",
     "estadio": "Philadelphia",
-    "id": 68
+    "id": "068"
   },
-  "69": {
+  "069": {
     "date": "2026-06-27",
     "time": "20:30 UTC-3",
     "dt_iso": "2026-06-27T20:30:00-0300",
@@ -825,9 +825,9 @@
     "pais1": "Colômbia",
     "pais2": "Portugal",
     "estadio": "Miami (Miami Gardens)",
-    "id": 69
+    "id": "069"
   },
-  "70": {
+  "070": {
     "date": "2026-06-27",
     "time": "20:30 UTC-3",
     "dt_iso": "2026-06-27T20:30:00-0300",
@@ -837,9 +837,9 @@
     "pais1": "República Democrática do Congo",
     "pais2": "Uzbequistão",
     "estadio": "Atlanta (Mercedes-Benz)",
-    "id": 70
+    "id": "070"
   },
-  "71": {
+  "071": {
     "date": "2026-06-27",
     "time": "23:00 UTC-3",
     "dt_iso": "2026-06-27T23:00:00-0300",
@@ -849,9 +849,9 @@
     "pais1": "Argélia",
     "pais2": "Áustria",
     "estadio": "Kansas City (Arrowhead)",
-    "id": 71
+    "id": "071"
   },
-  "72": {
+  "072": {
     "date": "2026-06-27",
     "time": "23:00 UTC-3",
     "dt_iso": "2026-06-27T23:00:00-0300",
@@ -861,9 +861,9 @@
     "pais1": "Jordânia",
     "pais2": "Argentina",
     "estadio": "Dallas (Arlington)",
-    "id": 72
+    "id": "072"
   },
-  "73": {
+  "073": {
     "date": "2026-06-28",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-06-28T16:00:00-0300",
@@ -873,9 +873,9 @@
     "pais1": "2A",
     "pais2": "2B",
     "estadio": "Los Angeles (Inglewood)",
-    "id": 73
+    "id": "073"
   },
-  "74": {
+  "074": {
     "date": "2026-06-29",
     "time": "14:00 UTC-3",
     "dt_iso": "2026-06-29T14:00:00-0300",
@@ -885,9 +885,9 @@
     "pais1": "1C",
     "pais2": "2F",
     "estadio": "Houston (NRG)",
-    "id": 74
+    "id": "074"
   },
-  "75": {
+  "075": {
     "date": "2026-06-29",
     "time": "17:30 UTC-3",
     "dt_iso": "2026-06-29T17:30:00-0300",
@@ -897,9 +897,9 @@
     "pais1": "1E",
     "pais2": "3A/B/C/D/F",
     "estadio": "Boston (Foxborough)",
-    "id": 75
+    "id": "075"
   },
-  "76": {
+  "076": {
     "date": "2026-06-29",
     "time": "22:00 UTC-3",
     "dt_iso": "2026-06-29T22:00:00-0300",
@@ -909,9 +909,9 @@
     "pais1": "1F",
     "pais2": "2C",
     "estadio": "Monterrey (Guadalupe)",
-    "id": 76
+    "id": "076"
   },
-  "77": {
+  "077": {
     "date": "2026-06-30",
     "time": "14:00 UTC-3",
     "dt_iso": "2026-06-30T14:00:00-0300",
@@ -921,9 +921,9 @@
     "pais1": "2E",
     "pais2": "2I",
     "estadio": "Dallas (Arlington)",
-    "id": 77
+    "id": "077"
   },
-  "78": {
+  "078": {
     "date": "2026-06-30",
     "time": "18:00 UTC-3",
     "dt_iso": "2026-06-30T18:00:00-0300",
@@ -933,9 +933,9 @@
     "pais1": "1I",
     "pais2": "3C/D/F/G/H",
     "estadio": "Nova Iorque/Nova Jersey (MetLife)",
-    "id": 78
+    "id": "078"
   },
-  "79": {
+  "079": {
     "date": "2026-06-30",
     "time": "22:00 UTC-3",
     "dt_iso": "2026-06-30T22:00:00-0300",
@@ -945,9 +945,9 @@
     "pais1": "1A",
     "pais2": "3C/E/F/H/I",
     "estadio": "Cidado do México (Azteca)",
-    "id": 79
+    "id": "079"
   },
-  "80": {
+  "080": {
     "date": "2026-07-01",
     "time": "13:00 UTC-3",
     "dt_iso": "2026-07-01T13:00:00-0300",
@@ -957,9 +957,9 @@
     "pais1": "1L",
     "pais2": "3E/H/I/J/K",
     "estadio": "Atlanta (Mercedes-Benz)",
-    "id": 80
+    "id": "080"
   },
-  "81": {
+  "081": {
     "date": "2026-07-01",
     "time": "17:00 UTC-3",
     "dt_iso": "2026-07-01T17:00:00-0300",
@@ -969,9 +969,9 @@
     "pais1": "1G",
     "pais2": "3A/E/H/I/J",
     "estadio": "Seattle",
-    "id": 81
+    "id": "081"
   },
-  "82": {
+  "082": {
     "date": "2026-07-01",
     "time": "21:00 UTC-3",
     "dt_iso": "2026-07-01T21:00:00-0300",
@@ -981,9 +981,9 @@
     "pais1": "1D",
     "pais2": "3B/E/F/I/J",
     "estadio": "San Francisco (Levi's)",
-    "id": 82
+    "id": "082"
   },
-  "83": {
+  "083": {
     "date": "2026-07-02",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-07-02T16:00:00-0300",
@@ -993,9 +993,9 @@
     "pais1": "1H",
     "pais2": "2J",
     "estadio": "Los Angeles (Inglewood)",
-    "id": 83
+    "id": "083"
   },
-  "84": {
+  "084": {
     "date": "2026-07-02",
     "time": "20:00 UTC-3",
     "dt_iso": "2026-07-02T20:00:00-0300",
@@ -1005,9 +1005,9 @@
     "pais1": "2K",
     "pais2": "2L",
     "estadio": "Toronto",
-    "id": 84
+    "id": "084"
   },
-  "85": {
+  "085": {
     "date": "2026-07-03",
     "time": "00:00 UTC-3",
     "dt_iso": "2026-07-03T00:00:00-0300",
@@ -1017,9 +1017,9 @@
     "pais1": "1B",
     "pais2": "3E/F/G/I/J",
     "estadio": "Vancouver (BC Place)",
-    "id": 85
+    "id": "085"
   },
-  "86": {
+  "086": {
     "date": "2026-07-03",
     "time": "15:00 UTC-3",
     "dt_iso": "2026-07-03T15:00:00-0300",
@@ -1029,9 +1029,9 @@
     "pais1": "2D",
     "pais2": "2G",
     "estadio": "Dallas (Arlington)",
-    "id": 86
+    "id": "086"
   },
-  "87": {
+  "087": {
     "date": "2026-07-03",
     "time": "19:00 UTC-3",
     "dt_iso": "2026-07-03T19:00:00-0300",
@@ -1041,9 +1041,9 @@
     "pais1": "1J",
     "pais2": "2H",
     "estadio": "Miami (Miami Gardens)",
-    "id": 87
+    "id": "087"
   },
-  "88": {
+  "088": {
     "date": "2026-07-03",
     "time": "22:30 UTC-3",
     "dt_iso": "2026-07-03T22:30:00-0300",
@@ -1053,9 +1053,9 @@
     "pais1": "1K",
     "pais2": "3D/E/I/J/L",
     "estadio": "Kansas City (Arrowhead)",
-    "id": 88
+    "id": "088"
   },
-  "89": {
+  "089": {
     "date": "2026-07-04",
     "time": "14:00 UTC-3",
     "dt_iso": "2026-07-04T14:00:00-0300",
@@ -1065,9 +1065,9 @@
     "pais1": "W73",
     "pais2": "W75",
     "estadio": "Houston (NRG)",
-    "id": 89
+    "id": "089"
   },
-  "90": {
+  "090": {
     "date": "2026-07-04",
     "time": "18:00 UTC-3",
     "dt_iso": "2026-07-04T18:00:00-0300",
@@ -1077,9 +1077,9 @@
     "pais1": "W74",
     "pais2": "W77",
     "estadio": "Philadelphia",
-    "id": 90
+    "id": "090"
   },
-  "91": {
+  "091": {
     "date": "2026-07-05",
     "time": "17:00 UTC-3",
     "dt_iso": "2026-07-05T17:00:00-0300",
@@ -1089,9 +1089,9 @@
     "pais1": "W76",
     "pais2": "W78",
     "estadio": "Nova Iorque/Nova Jersey (MetLife)",
-    "id": 91
+    "id": "091"
   },
-  "92": {
+  "092": {
     "date": "2026-07-05",
     "time": "21:00 UTC-3",
     "dt_iso": "2026-07-05T21:00:00-0300",
@@ -1101,9 +1101,9 @@
     "pais1": "W79",
     "pais2": "W80",
     "estadio": "Cidado do México (Azteca)",
-    "id": 92
+    "id": "092"
   },
-  "93": {
+  "093": {
     "date": "2026-07-06",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-07-06T16:00:00-0300",
@@ -1113,9 +1113,9 @@
     "pais1": "W83",
     "pais2": "W84",
     "estadio": "Dallas (Arlington)",
-    "id": 93
+    "id": "093"
   },
-  "94": {
+  "094": {
     "date": "2026-07-06",
     "time": "21:00 UTC-3",
     "dt_iso": "2026-07-06T21:00:00-0300",
@@ -1125,9 +1125,9 @@
     "pais1": "W81",
     "pais2": "W82",
     "estadio": "Seattle",
-    "id": 94
+    "id": "094"
   },
-  "95": {
+  "095": {
     "date": "2026-07-07",
     "time": "13:00 UTC-3",
     "dt_iso": "2026-07-07T13:00:00-0300",
@@ -1137,9 +1137,9 @@
     "pais1": "W86",
     "pais2": "W88",
     "estadio": "Atlanta (Mercedes-Benz)",
-    "id": 95
+    "id": "095"
   },
-  "96": {
+  "096": {
     "date": "2026-07-07",
     "time": "17:00 UTC-3",
     "dt_iso": "2026-07-07T17:00:00-0300",
@@ -1149,9 +1149,9 @@
     "pais1": "W85",
     "pais2": "W87",
     "estadio": "Vancouver (BC Place)",
-    "id": 96
+    "id": "096"
   },
-  "97": {
+  "097": {
     "date": "2026-07-09",
     "time": "17:00 UTC-3",
     "dt_iso": "2026-07-09T17:00:00-0300",
@@ -1161,9 +1161,9 @@
     "pais1": "W89",
     "pais2": "W90",
     "estadio": "Boston (Foxborough)",
-    "id": 97
+    "id": "097"
   },
-  "98": {
+  "098": {
     "date": "2026-07-10",
     "time": "16:00 UTC-3",
     "dt_iso": "2026-07-10T16:00:00-0300",
@@ -1173,9 +1173,9 @@
     "pais1": "W93",
     "pais2": "W94",
     "estadio": "Los Angeles (Inglewood)",
-    "id": 98
+    "id": "098"
   },
-  "99": {
+  "099": {
     "date": "2026-07-11",
     "time": "18:00 UTC-3",
     "dt_iso": "2026-07-11T18:00:00-0300",
@@ -1185,7 +1185,7 @@
     "pais1": "W91",
     "pais2": "W92",
     "estadio": "Miami (Miami Gardens)",
-    "id": 99
+    "id": "099"
   },
   "100": {
     "date": "2026-07-11",
@@ -1197,7 +1197,7 @@
     "pais1": "W95",
     "pais2": "W96",
     "estadio": "Kansas City (Arrowhead)",
-    "id": 100
+    "id": "100"
   },
   "101": {
     "date": "2026-07-14",
@@ -1209,7 +1209,7 @@
     "pais1": "W97",
     "pais2": "W98",
     "estadio": "Dallas (Arlington)",
-    "id": 101
+    "id": "101"
   },
   "102": {
     "date": "2026-07-15",
@@ -1221,7 +1221,7 @@
     "pais1": "W99",
     "pais2": "W100",
     "estadio": "Atlanta (Mercedes-Benz)",
-    "id": 102
+    "id": "102"
   },
   "103": {
     "date": "2026-07-18",
@@ -1233,7 +1233,7 @@
     "pais1": "L101",
     "pais2": "L102",
     "estadio": "Miami (Miami Gardens)",
-    "id": 103
+    "id": "103"
   },
   "104": {
     "date": "2026-07-19",
@@ -1245,6 +1245,6 @@
     "pais1": "W101",
     "pais2": "W102",
     "estadio": "Nova Iorque/Nova Jersey (MetLife)",
-    "id": 104
+    "id": "104"
   }
 }
