@@ -2,8 +2,8 @@
   "001": {
     "date": "2026-05-31",
     "time": "10:00 UTC-3",
-    "dt_iso": "2026-05-31T10:00:00-0300",
-    "dt_epoch": 1748696400000,
+    "dt_iso": "2026-05-31T10:00:00-03:00",
+    "dt_epoch": 1780232400000,
     "rodada": "Aquecimento",
     "grupo": "Amistosos",
     "pais1": "Suíça",
@@ -14,8 +14,8 @@
   "002": {
     "date": "2026-05-31",
     "time": "16:30 UTC-3",
-    "dt_iso": "2026-05-31T16:30:00-0300",
-    "dt_epoch": 1748719800000,
+    "dt_iso": "2026-05-31T16:30:00-03:00",
+    "dt_epoch": 1780255800000,
     "rodada": "Aquecimento",
     "grupo": "Amistosos",
     "pais1": "Estados Unidos",
@@ -26,8 +26,8 @@
   "003": {
     "date": "2026-05-31",
     "time": "18:00 UTC-3",
-    "dt_iso": "2026-05-31T18:00:00-0300",
-    "dt_epoch": 1748725200000,
+    "dt_iso": "2026-05-31T18:00:00-03:00",
+    "dt_epoch": 1780261200000,
     "rodada": "Aquecimento",
     "grupo": "Amistosos",
     "pais1": "Brasil",
@@ -38,8 +38,8 @@
   "004": {
     "date": "2026-06-01",
     "time": "14:00 UTC-3",
-    "dt_iso": "2026-06-01T14:00:00-0300",
-    "dt_epoch": 1748797200000,
+    "dt_iso": "2026-06-01T14:00:00-03:00",
+    "dt_epoch": 1780333200000,
     "rodada": "Aquecimento",
     "grupo": "Amistosos",
     "pais1": "Noruega",
