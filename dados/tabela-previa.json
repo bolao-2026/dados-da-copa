@@ -1,0 +1,122 @@
+{
+  "001": {
+    "date": "2026-06-02",
+    "dt_iso": "2026-06-02T13:00:00-03:00",
+    "estadio": "Stadion Rujevica, Rijeka",
+    "grupo": "Amistosos",
+    "id": "001",
+    "pais1": "Croácia",
+    "pais2": "Bélgica",
+    "rodada": "Aquecimento",
+    "time": "13:00 UTC-3",
+    "dt_epoch": 1780416000000
+  },
+  "002": {
+    "date": "2026-06-02",
+    "dt_iso": "2026-06-02T21:00:00-03:00",
+    "estadio": "Chase Stadium, Fort Lauderdale",
+    "grupo": "Amistosos",
+    "id": "002",
+    "pais1": "Haiti",
+    "pais2": "Nova Zelândia",
+    "rodada": "Aquecimento",
+    "time": "21:00 UTC-3",
+    "dt_epoch": 1780444800000
+  },
+  "003": {
+    "date": "2026-06-03",
+    "dt_iso": "2026-06-03T15:45:00-03:00",
+    "estadio": "De Kuip, Rotterdam",
+    "grupo": "Amistosos",
+    "id": "003",
+    "pais1": "Países Baixos",
+    "pais2": "Argélia",
+    "rodada": "Aquecimento",
+    "time": "15:45 UTC-3",
+    "dt_epoch": 1780512300000
+  },
+  "004": {
+    "date": "2026-06-04",
+    "dt_iso": "2026-06-04T16:00:00-03:00",
+    "estadio": "Estádio Riazor, A Coruña",
+    "grupo": "Amistosos",
+    "id": "004",
+    "pais1": "Espanha",
+    "pais2": "Iraque",
+    "rodada": "Aquecimento",
+    "time": "16:00 UTC-3",
+    "dt_epoch": 1780599600000
+  },
+  "005": {
+    "date": "2026-06-04",
+    "dt_iso": "2026-06-04T16:10:00-03:00",
+    "estadio": "Stade de la Beaujoire, Nantes",
+    "grupo": "Amistosos",
+    "id": "005",
+    "pais1": "França",
+    "pais2": "Costa do Marfim",
+    "rodada": "Aquecimento",
+    "time": "16:10 UTC-3",
+    "dt_epoch": 1780600200000
+  },
+  "006": {
+    "date": "2026-06-06",
+    "dt_iso": "2026-06-06T18:00:00-04:00",
+    "estadio": "Huntington Bank Field, Cleveland",
+    "grupo": "Amistosos",
+    "id": "006",
+    "pais1": "Brasil",
+    "pais2": "Egito",
+    "rodada": "Aquecimento",
+    "time": "18:00 UTC-4",
+    "dt_epoch": 1780783200000
+  },
+  "007": {
+    "date": "2026-06-06",
+    "dt_iso": "2026-06-06T19:00:00-07:00",
+    "estadio": "Snapdragon Stadium, San Diego",
+    "grupo": "Amistosos",
+    "id": "007",
+    "pais1": "Suíça",
+    "pais2": "Austrália",
+    "rodada": "Aquecimento",
+    "time": "19:00 UTC-7",
+    "dt_epoch": 1780797600000
+  },
+  "008": {
+    "date": "2026-06-07",
+    "dt_iso": "2026-06-07T15:00:00-04:00",
+    "estadio": "Sports Illustrated Stadium, Harrison",
+    "grupo": "Amistosos",
+    "id": "008",
+    "pais1": "Marrocos",
+    "pais2": "Noruega",
+    "rodada": "Aquecimento",
+    "time": "15:00 UTC-4",
+    "dt_epoch": 1780858800000
+  },
+  "009": {
+    "date": "2026-06-07",
+    "dt_iso": "2026-06-07T19:00:00-07:00",
+    "estadio": "Snapdragon Stadium, San Diego",
+    "grupo": "Amistosos",
+    "id": "009",
+    "pais1": "Colômbia",
+    "pais2": "Jordânia",
+    "rodada": "Aquecimento",
+    "time": "19:00 UTC-7",
+    "dt_epoch": 1780884000000
+  },
+  "010": {
+    "date": "2026-06-08",
+    "dt_iso": "2026-06-08T19:45:00-04:00",
+    "estadio": "Timber Icahn Stadium, New York",
+    "grupo": "Amistosos",
+    "id": "010",
+    "pais1": "Países Baixos",
+    "pais2": "Uzbequistão",
+    "rodada": "Aquecimento",
+    "time": "19:45 UTC-4",
+    "dt_epoch": 1780962300000
+  }
+}
