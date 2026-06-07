@@ -97,15 +97,15 @@
   },
   "009": {
     "date": "2026-06-07",
-    "dt_iso": "2026-06-07T19:00:00-07:00",
+    "dt_iso": "2026-06-07T20:00:00-03:00",
     "estadio": "Snapdragon Stadium, San Diego",
     "grupo": "Amistosos",
     "id": "009",
     "pais1": "Colômbia",
     "pais2": "Jordânia",
     "rodada": "Aquecimento",
-    "time": "19:00 UTC-7",
-    "dt_epoch": 1780884000000
+    "time": "19:00 UTC-4",
+    "dt_epoch": 17808732000000
   },
   "010": {
     "date": "2026-06-08",
