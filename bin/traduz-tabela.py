@@ -41,7 +41,7 @@ def add_timestamps(matches):
         target_tz = timezone(timedelta(hours=-3))
         target_dt = utc_dt.astimezone(target_tz)
 
-        match["dt_iso"] = target_dt.strftime("%Y-%m-%dT%H:%M:%SZ").replace("Z", "-0300")
+        match["dt_iso"] = target_dt.strftime("%Y-%m-%dT%H:%M:%SZ").replace("Z", "-03:00")
         match["dt_epoch"] = int(1000 * target_dt.timestamp())
 
     return new_matches
