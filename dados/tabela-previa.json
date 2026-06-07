@@ -1,123 +1,110 @@
 {
   "001": {
-    "date": "2026-06-02",
-    "dt_iso": "2026-06-02T13:00:00-03:00",
-    "estadio": "Stadion Rujevica, Rijeka",
-    "grupo": "Amistosos",
-    "id": "001",
-    "pais1": "Croácia",
-    "pais2": "Bélgica",
-    "rodada": "Aquecimento",
-    "time": "13:00 UTC-3",
-    "dt_epoch": 1780416000000
-  },
-  "002": {
-    "date": "2026-06-02",
-    "dt_iso": "2026-06-02T21:00:00-03:00",
-    "estadio": "Chase Stadium, Fort Lauderdale",
-    "grupo": "Amistosos",
-    "id": "002",
-    "pais1": "Haiti",
-    "pais2": "Nova Zelândia",
-    "rodada": "Aquecimento",
-    "time": "21:00 UTC-3",
-    "dt_epoch": 1780444800000
-  },
-  "003": {
     "date": "2026-06-03",
+    "dt_epoch": 1780512300000,
     "dt_iso": "2026-06-03T15:45:00-03:00",
     "estadio": "De Kuip, Rotterdam",
+    "gols1": 0,
+    "gols2": 1,
     "grupo": "Amistosos",
-    "id": "003",
+    "id": "001",
     "pais1": "Países Baixos",
     "pais2": "Argélia",
     "rodada": "Aquecimento",
-    "time": "15:45 UTC-3",
-    "dt_epoch": 1780512300000
+    "time": "15:45 UTC-3"
   },
-  "004": {
+  "002": {
     "date": "2026-06-04",
+    "dt_epoch": 1780599600000,
     "dt_iso": "2026-06-04T16:00:00-03:00",
     "estadio": "Estádio Riazor, A Coruña",
+    "gols1": 1,
+    "gols2": 1,
     "grupo": "Amistosos",
-    "id": "004",
+    "id": "002",
     "pais1": "Espanha",
     "pais2": "Iraque",
     "rodada": "Aquecimento",
-    "time": "16:00 UTC-3",
-    "dt_epoch": 1780599600000
+    "time": "16:00 UTC-3"
   },
-  "005": {
+  "003": {
     "date": "2026-06-04",
+    "dt_epoch": 1780600200000,
     "dt_iso": "2026-06-04T16:10:00-03:00",
     "estadio": "Stade de la Beaujoire, Nantes",
+    "gols1": 1,
+    "gols2": 2,
     "grupo": "Amistosos",
-    "id": "005",
+    "id": "003",
     "pais1": "França",
     "pais2": "Costa do Marfim",
     "rodada": "Aquecimento",
-    "time": "16:10 UTC-3",
-    "dt_epoch": 1780600200000
+    "time": "16:10 UTC-3"
   },
-  "006": {
+  "004": {
     "date": "2026-06-06",
+    "dt_epoch": 1780783200000,
     "dt_iso": "2026-06-06T18:00:00-04:00",
     "estadio": "Huntington Bank Field, Cleveland",
+    "gols1": 2,
+    "gols2": 1,
     "grupo": "Amistosos",
-    "id": "006",
+    "id": "004",
     "pais1": "Brasil",
     "pais2": "Egito",
     "rodada": "Aquecimento",
-    "time": "18:00 UTC-4",
-    "dt_epoch": 1780783200000
+    "time": "18:00 UTC-4"
   },
-  "007": {
+  "005": {
     "date": "2026-06-06",
+    "dt_epoch": 1780797600000,
     "dt_iso": "2026-06-06T19:00:00-07:00",
     "estadio": "Snapdragon Stadium, San Diego",
+    "gols1": 1,
+    "gols2": 1,
     "grupo": "Amistosos",
-    "id": "007",
+    "id": "005",
     "pais1": "Suíça",
     "pais2": "Austrália",
     "rodada": "Aquecimento",
-    "time": "19:00 UTC-7",
-    "dt_epoch": 1780797600000
+    "time": "19:00 UTC-7"
   },
-  "008": {
+  "006": {
     "date": "2026-06-07",
+    "dt_epoch": 1780858800000,
     "dt_iso": "2026-06-07T15:00:00-04:00",
     "estadio": "Sports Illustrated Stadium, Harrison",
+    "gols1": 1,
+    "gols2": 1,
     "grupo": "Amistosos",
-    "id": "008",
+    "id": "006",
     "pais1": "Marrocos",
     "pais2": "Noruega",
     "rodada": "Aquecimento",
-    "time": "15:00 UTC-4",
-    "dt_epoch": 1780858800000
+    "time": "15:00 UTC-4"
   },
-  "009": {
+  "007": {
     "date": "2026-06-07",
     "dt_iso": "2026-06-07T20:00:00-03:00",
     "estadio": "Snapdragon Stadium, San Diego",
     "grupo": "Amistosos",
-    "id": "009",
+    "id": "007",
     "pais1": "Colômbia",
     "pais2": "Jordânia",
     "rodada": "Aquecimento",
     "time": "20:00 UTC-3",
     "dt_epoch": 1780873200000
   },
-  "010": {
+  "008": {
     "date": "2026-06-08",
-    "dt_iso": "2026-06-08T19:45:00-04:00",
+    "dt_epoch": 1780944300000,
+    "dt_iso": "2026-06-08T15:45:00-03:00",
     "estadio": "Timber Icahn Stadium, New York",
     "grupo": "Amistosos",
-    "id": "010",
+    "id": "008",
     "pais1": "Países Baixos",
     "pais2": "Uzbequistão",
     "rodada": "Aquecimento",
-    "time": "19:45 UTC-4",
-    "dt_epoch": 1780962300000
+    "time": "15:45 UTC-3"
   }
 }
-
