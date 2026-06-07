@@ -99,7 +99,7 @@ def traduz_rodadas_e_grupos(matches):
             match["round"] = "Groups"
         match["rodada"] = TRADUCAO_RODADAS[match.pop("round")]
         grupo = match.pop("group", None)
-        match["grupo"] = f"Grupo {grupo}" if grupo else None
+        match["grupo"] = f"Grupo {grupo.removeprefix('Group ')}" if grupo else None
 
     return new_matches
 
